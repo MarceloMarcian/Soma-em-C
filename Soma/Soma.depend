@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541006802 source:/home/laercio/projetos/C/Soma-em-C/Soma/main.c
+	<stdio.h>
+	<stdlib.h>
+
